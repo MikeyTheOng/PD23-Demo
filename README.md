@@ -1,6 +1,8 @@
-# voucher
+# PD23-Demo
 
 ## Project setup
+The website is hosted here: https://pd23.netlify.app/. If you would like to set-up the project on your local machine, follow the steps below.
+
 ```
 npm install
 ```
